@@ -10,7 +10,7 @@
   - Thorsons Honors, McBride Honors, Dean's List, 3.657 GPA
 
 ### 💡 Technical Skills
-- **Languages**: C++, Java, Python, LUA, Bash
+- **Languages**: C++, C, Java, Javascript, Python, LUA, Bash, HTML
 - **Tools**: Linux, Windows, PROXMOX, VMWARE, Docker, Jenkins, Maven
 - **Other**: Server & Endpoint Infrastructure, Hardware Management, Troubleshooting
 
