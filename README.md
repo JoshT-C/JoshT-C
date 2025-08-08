@@ -62,4 +62,4 @@
 
 ---
 
-*I'm passionate about computer systems deployment, server infrastructure, and building community through technology. Always looking to collaborate on interesting projects and contribute if you have something interesting.*
+*I'm passionate about computer systems deployment, server infrastructure, and building community through technology. Always looking to collaborate on interesting if you have something interesting.*
