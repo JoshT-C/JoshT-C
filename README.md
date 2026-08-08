@@ -3,63 +3,64 @@
 ## 💻 Computer Science Student | Colorado School of Mines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/joshua-tuominen-collins)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Joshua.T-C@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Joshua_T-C@outlook.com)
+<!-- If your site at JoshT-C.github.io is live, add:
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://josht-c.github.io)
+-->
+
+I'm a computer science enthusiast who solves problems by building: my own Proxmox homelab, the server infrastructure behind a 600-member student community, and Kubernetes platforms and LLM agents across two internship summers. I like understanding complex systems, from zero-trust authentication to agentic AI, well enough to run them, secure them, and explain them.
 
 ## 🎓 Education
 
-**Colorado School of Mines** - B.S. Computer Science (Expected 2027)
-- Thorsons Honors, McBride Honors, Dean's List
-- GPA: 3.657
+**Colorado School of Mines** | B.S. Computer Science (Expected 2027)
+
+- GPA: 3.69
+- Thorson First-Year Honors, McBride Honors Program, Dean's List, Honor Roll
+- Principal French Horn, Mines Orchestra
 
 ## 💼 Professional Experience
 
-### Software Developer Intern
-**Parsons Corporation** | Jun 2025 - Present
-- Implemented secure authentication and authorization using Keycloak across Java Spring Boot backend and Angular frontend applications
-- Designed and optimized dockerized microservice architecture with Nginx load balancing, improving system scalability and deployment efficiency
-- Deployed and orchestrated containerized applications using Kubernetes for enhanced scalability and production-ready solutions
-- Collaborated effectively within Agile development environment utilizing Jira for project management, sprint planning, and issue tracking
-- Delivered full-stack solutions integrating modern cloud-native architecture patterns and DevOps best practices
+### Software Engineering Intern | Parsons Corporation
+
+*Summers 2025 & 2026*
+
+- Architected a containerized microservice platform (Angular, Spring Boot, FastAPI, PostgreSQL) and led its migration to Kubernetes, scaling single-node capacity from 10 to 1,000 concurrent users
+- Stood up Keycloak authentication from scratch and implemented a zero-trust edge with OAuth2 Proxy and certificate-based auth
+- Built the Jenkins CI/CD pipeline with cached, parallelized container builds, cutting build times by more than half; wrote a Playwright E2E suite plus 200+ tests
+- Returned in a senior role: authored the team's documentation and migration guides, delivered product demos, and advised senior engineers on Kubernetes and Keycloak adoption
+
+### Software Engineering Field Session (Client Project) | Kinective
+
+*May – Jun 2026*
+
+- On a 4-person team, delivered a conversational AI agent (Claude on AWS Bedrock, MCP tools) that lets non-technical users build business workflows inside Kinective's enterprise low-code platform
+- Designed the system prompt for an automated testing agent that independently re-verifies the workflow agent's end-to-end output
+- Authored the benchmark prompt suite and advised on prompt structure during optimization that cut per-workflow LLM cost from roughly $12–15 to under $3
 
 ## 💡 Technical Skills
 
-**Languages**: C++, C, Java, Javascript, Python, LUA, Bash, HTML
+- **Languages**: Java, Python, C++, C, TypeScript/JavaScript, SQL, Bash, Lua
+- **Backend & Frameworks**: Spring Boot, Angular, FastAPI, Maven, PostgreSQL, MySQL
+- **Infrastructure & DevOps**: Kubernetes, Helm, Docker, Traefik, Nginx, Jenkins, Proxmox, Grafana, Prometheus, Git, Linux
+- **Identity & Security**: Keycloak, OAuth2/OIDC, JWT, OAuth2 Proxy, SSO, zero-trust edge auth
+- **AI/LLM**: Claude (AWS Bedrock), Model Context Protocol (MCP), prompt engineering, agent evaluation
+- **Testing**: Playwright, k6
 
-**Tools & Technologies**: 
-- **Development**: Spring Boot, Angular, Keycloak
-- **DevOps**: Docker, Kubernetes, Nginx, Jenkins, Maven
-- **Infrastructure**: Linux, Windows, PROXMOX, VMWARE
-- **Other**: Server & Endpoint Infrastructure, Hardware Management, Troubleshooting
+## 🚀 Leadership & Community
 
-## 🔧 Additional Experience
+### President & Lead Server Administrator | Minecraft at Mines
 
-**Print Services & Technology Advisor** - OfficeDepot/OfficeMax
-- Provided technical support and consultation for printing services and technology solutions
+*Aug 2023 – Present*
 
-**Freelance Consultant** - VPS, Proxy, and Automation Systems
-- Designed and implemented custom VPS solutions and automation systems for clients
+- Lead a 600+ member community and the Proxmox/Ubuntu infrastructure behind it, including a Docker-based platform that provisions on-demand Minecraft servers for students
+- Create, source, and deploy custom Java plugins for community servers
 
-**Computer Technician** - Custom Computer Builds and Troubleshooting
-- Built custom computer systems and provided hardware troubleshooting services
+### Vice President of Advocacy | oSTEM at Mines
 
-## 🚀 Projects
+*Aug 2024 – Present*
 
-### Minecraft at Mines - Vice President & Treasurer
-- Managing community server with 460+ members
-- Deploying custom Java plugins for enhanced gameplay experience
-- Server infrastructure management and optimization
-- Financial management and community leadership
-
-## 📚 Leadership & Volunteering
-
-**Math Tutor**
-- Tutoring advanced math classes from algebra to calculus
-- Helping students develop problem-solving skills and mathematical understanding
-
-**Library Assistant**
-- Organization and cataloging of library materials
-- Assisting patrons with research and resource location
+- Oversee a 440+ member community Discord and the chapter's advocacy resources; advise Mines DI&A on SafeZONE training
 
 ---
 
-*I'm passionate about computer systems deployment, server infrastructure, and building community through technology. Always looking to collaborate on interesting if you have something interesting.*
+*I'm passionate about server infrastructure, identity and access management, and building community through technology. Always looking to collaborate; if you're building something interesting, reach out.*
