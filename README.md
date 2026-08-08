@@ -4,9 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/joshua-tuominen-collins)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Joshua_T-C@outlook.com)
-<!-- If your site at JoshT-C.github.io is live, add:
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://josht-c.github.io)
--->
 
 I'm a computer science enthusiast who solves problems by building: my own Proxmox homelab, the server infrastructure behind a 600-member student community, and Kubernetes platforms and LLM agents across two internship summers. I like understanding complex systems, from zero-trust authentication to agentic AI, well enough to run them, secure them, and explain them.
 
